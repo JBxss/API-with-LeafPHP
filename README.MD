@@ -1,7 +1,5 @@
 # API-with-LeafPHP
 
-![LeafPHP](https://leafphp.dev/logo-circle.png)
-
 Bienvenido/a a la API con LeafPHP, una solución eficiente y versátil para desarrollar servicios web RESTful. LeafPHP es un framework ligero y de alto rendimiento que facilita la creación de APIs y aplicaciones web, permitiéndote enfocarte en la lógica de negocio y ofreciendo una experiencia de desarrollo sencilla y agradable.
 
 ## Características destacadas
@@ -38,10 +36,10 @@ Bienvenido/a a la API con LeafPHP, una solución eficiente y versátil para desa
 
 ## Autor
 
-Juan Bossa - JBoss Dev
+- Desarrollado por [Juan Bossa](https://github.com/JBxss)
 
 ## Licencia
 
-MIT
+Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
 
 ---
